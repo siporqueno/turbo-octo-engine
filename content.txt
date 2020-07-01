@@ -1,1 +1,2 @@
 content from branch clear-branch
+content made in cherry-branch
